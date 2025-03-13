@@ -8,3 +8,5 @@ programın olduğu klasöre ogrenci_fotograflari ve kirpilmis_fotograflar adınd
 
 V2 Güncelleme:
 Artık bir arayüz mevcut. fotoğraflarınızın olduğu klasör seçilir dönüştür butonuna tıkladığınızda klasör içinde klasör oluşturur ve kırpılmış fotoğraflarınızı alabilirsiniz.
+
+@YigitC'ye dönüşleri için teşekkürler.
