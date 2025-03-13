@@ -5,3 +5,6 @@ opencv
 pillow kütüphaneleri ile haarcascade frontal face dosyasını kullanır.
 
 programın olduğu klasöre ogrenci_fotograflari ve kirpilmis_fotograflar adında iki klasör olşturarak kullanabilirsiniz.
+
+V2 Güncelleme:
+Artık bir arayüz mevcut. fotoğraflarınızın olduğu klasör seçilir dönüştür butonuna tıkladığınızda klasör içinde klasör oluşturur ve kırpılmış fotoğraflarınızı alabilirsiniz.
